@@ -1,1 +1,1 @@
-# calculadora-testes
+[![Java CI with Maven](https://github.com/DavidLucas00/calculadora-testes/actions/workflows/maven.yml/badge.svg)](https://github.com/DavidLucas00/calculadora-testes/actions/workflows/maven.yml)# calculadora-testes
